@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# Numbers Facts
+
+Enter a random number and it will display a fact related to that number. Try it out from the link below!
+
+## Installation
+
+```bash
+# Clone the repo
+$ git clone https://github.com/MohamedMedhat21/Numbers-Facts.git
+
+# Install dependencies
+$ npm install
+```
+## Getting Started
+
+```bash
+$ npm start
+```
+
+## Home page
+
+![homepage](https://github.com/MohamedMedhat21/robofriends/blob/master/public/readme%20images/homepage.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
