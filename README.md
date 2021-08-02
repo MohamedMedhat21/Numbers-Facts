@@ -19,7 +19,7 @@ $ npm start
 
 ## Home page
 
-![homepage](https://github.com/MohamedMedhat21/robofriends/blob/master/public/readme%20images/homepage.png)
+![homepage](https://github.com/MohamedMedhat21/Numbers-Facts/blob/master/public/readme%20images/homepage.png)
 
 ## Getting Started with Create React App
 
