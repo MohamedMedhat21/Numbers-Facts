@@ -2,6 +2,10 @@
 
 Enter a random number and it will display a fact related to that number. Try it out from the link below!
 
+## Preview
+
+https://mohamedmedhat21.github.io/Numbers-Facts/
+
 ## Installation
 
 ```bash
