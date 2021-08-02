@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Numbers-Facts/static/css/main.a44d8fe9.chunk.css",
-    "main.js": "/Numbers-Facts/static/js/main.8d45e1b7.chunk.js",
-    "main.js.map": "/Numbers-Facts/static/js/main.8d45e1b7.chunk.js.map",
+    "main.css": "/Numbers-Facts/static/css/main.8b3dfb77.chunk.css",
+    "main.js": "/Numbers-Facts/static/js/main.8d1307f6.chunk.js",
+    "main.js.map": "/Numbers-Facts/static/js/main.8d1307f6.chunk.js.map",
     "runtime-main.js": "/Numbers-Facts/static/js/runtime-main.4ceb852a.js",
     "runtime-main.js.map": "/Numbers-Facts/static/js/runtime-main.4ceb852a.js.map",
     "static/css/2.6d7c7915.chunk.css": "/Numbers-Facts/static/css/2.6d7c7915.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.aae7d27e.chunk.js.map": "/Numbers-Facts/static/js/2.aae7d27e.chunk.js.map",
     "index.html": "/Numbers-Facts/index.html",
     "static/css/2.6d7c7915.chunk.css.map": "/Numbers-Facts/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.a44d8fe9.chunk.css.map": "/Numbers-Facts/static/css/main.a44d8fe9.chunk.css.map",
+    "static/css/main.8b3dfb77.chunk.css.map": "/Numbers-Facts/static/css/main.8b3dfb77.chunk.css.map",
     "static/js/2.aae7d27e.chunk.js.LICENSE.txt": "/Numbers-Facts/static/js/2.aae7d27e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4ceb852a.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.aae7d27e.chunk.js",
-    "static/css/main.a44d8fe9.chunk.css",
-    "static/js/main.8d45e1b7.chunk.js"
+    "static/css/main.8b3dfb77.chunk.css",
+    "static/js/main.8d1307f6.chunk.js"
   ]
 }
